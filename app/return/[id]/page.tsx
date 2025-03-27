@@ -16,7 +16,7 @@ export default function ReturnUrlStripe() {
               Linking was Successful
             </h3>
             <p className="mt-2 text-sm text-muted-foreground">
-              Congrats on linking your account to marshal UI. You can now start
+              Congrats on linking your account to UScreen. You can now start
               selling your products!
             </p>
 
